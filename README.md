@@ -1,29 +1,4 @@
-# CPT113 Hackathon 2
-> **MEMBERS**
-
-**1.** `ANG DE JIE`
-
-**No. Matric -** `164049`
-
-**2.** `ANSON KIU YI KAI`
-
-**No. Matric -** `164554`
-
-**3.** `AXLER CHIN SHUN YUAN`
-
-**No. Matric -** `162331`
-
-> GROUP NUMBER
-
-**Group 40**
-
-> VIDEO PRESENTATION
-
-https://youtu.be/kicx-xZTQtg
-
-> INTRODUCTION
-
-We are from **Group 40**. This is our first game we ever made by using  `C++` programming language. The game is called **Spire of Sin**. It is an immersive and captivating **text-based** role-playing game (RPG) that delves into a dark and morally world.
+The game is called **Spire of Sin**. It is an immersive and captivating **text-based** role-playing game (RPG) that delves into a dark and morally world.
 
 > HOW TO RUN THE GAME
 
