@@ -1,3 +1,5 @@
+Creators: [Dejie](https://github.com/Dejie1) || [Anson](https://github.com/NsonQ) || [Axler](https://github.com/Ubicana)
+
 The game is called **Spire of Sin**. It is an immersive and captivating **text-based** role-playing game (RPG) that delves into a dark and morally world.
 
 > HOW TO RUN THE GAME
