@@ -174,4 +174,4 @@ If you **manage to beat the game**, you will see this message:
     #    #  #    #  #   ##  #    #  #   #   #    #   #    #    #    ###
      ####    ####   #    #   ####   #    #  #    #   #     ####     ###
 ```
-That's is, **good luck** my `exile` !
+That's, **good luck** my `exile` !
